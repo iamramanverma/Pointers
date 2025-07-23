@@ -57,7 +57,4 @@ This project is open-source and available under the MIT License.
 yaml
 Copy
 Edit
-Would you like me to:
 
-1. Save this `README.md` as a downloadable file?  
-2. Help you add & commit this file to your GitHub repo using `git` step-by-step?
